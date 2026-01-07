@@ -226,3 +226,7 @@ You've successfully hosted your container image in a registry! You learned how t
 - Pull and run images from the registry
 
 Your containerized application is now ready to be deployed to Kubernetes! In the next tutorial, we'll install Kubernetes and prepare our environment for deployment.
+
+---
+
+**Next Lesson** - [Setting Up Kubernetes with Minikube](./03-Install_Kubernetes.md)

@@ -285,3 +285,7 @@ You've learned advanced troubleshooting techniques! You can now:
 - Understand Node resources and capacity
 
 These skills are essential for running applications in production Kubernetes environments.
+
+---
+
+**Next Lesson (Optional)** - [Scaling Your Application](./07-Scale_your_Application.md)

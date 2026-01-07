@@ -238,3 +238,7 @@ You've successfully set up a local Kubernetes cluster! You learned how to:
 - Use basic minikube commands
 
 Your Kubernetes cluster is now ready for deploying applications. In the next tutorial, we'll create your first Pod!
+
+---
+
+**Next Lesson** - [Creating Your First Pod](./04-Create_your_First_Pod.md)

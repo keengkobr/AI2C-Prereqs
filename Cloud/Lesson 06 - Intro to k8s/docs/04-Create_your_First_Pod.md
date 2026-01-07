@@ -282,3 +282,7 @@ You've successfully deployed your first application to Kubernetes! You learned h
 4. ✅ Deploying it to Kubernetes
 
 In the next tutorial, we'll learn how to expose your application to the outside world using Services!
+
+---
+
+**Next Lesson** - [Exposing Your Pod to the World](./05-Expose_your_Pod_to_the_World.md)

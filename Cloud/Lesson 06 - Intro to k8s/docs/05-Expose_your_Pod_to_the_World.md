@@ -232,3 +232,7 @@ Congratulations! You've completed the core Kubernetes roadmap:
 5. ✅ Exposed your Pod to the world (via Service)
 
 The remaining tutorials are optional but provide valuable skills for troubleshooting and scaling your applications.
+
+---
+
+**Next Lesson (Optional)** - [Exploring and Troubleshooting Your Application](./06-Explore_and_Troubleshoot.md)

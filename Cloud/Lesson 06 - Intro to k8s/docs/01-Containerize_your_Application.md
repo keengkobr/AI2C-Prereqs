@@ -189,3 +189,7 @@ You've successfully containerized your first application! You learned how to:
 - Run and test the container locally
 
 In the next tutorial, we'll learn how to host this container image in a registry so it can be accessed by Kubernetes.
+
+---
+
+**Next Lesson** - [Hosting Your Container in a Registry](./02-Host_your_Container.md)
